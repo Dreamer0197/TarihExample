@@ -6,9 +6,17 @@
 //
 
 #include <iostream>
+#include "Date.h"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    Date date1(02,8,2200);
+    date1.increaseDay();
+    date1.displayDate();
+    
+    
+    
+    
     return 0;
 }

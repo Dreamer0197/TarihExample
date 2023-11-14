@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8CEE6CCF2B03CCF600592F90 /* TarihExample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TarihExample; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEE6CD22B03CCF600592F90 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8CEE6CDA2B03CD9C00592F90 /* Date.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Date.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8CEE6CD22B03CCF600592F90 /* main.cpp */,
+				8CEE6CDA2B03CD9C00592F90 /* Date.h */,
 			);
 			path = TarihExample;
 			sourceTree = "<group>";
